@@ -1,0 +1,9 @@
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\bin\Release\Punteros.UI.exe.config
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\bin\Release\Punteros.UI.exe
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\bin\Release\Punteros.UI.pdb
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Release\Punteros.UI.FrmPunteros.resources
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Release\Punteros.UI.Properties.Resources.resources
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Release\Punteros.UI.csproj.GenerateResource.cache
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Release\Punteros.UI.csproj.CoreCompileInputs.cache
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Release\Punteros.UI.exe
+C:\Users\Laucha\source\repos\Punteros.UI\Punteros.UI\obj\Release\Punteros.UI.pdb
